@@ -1,0 +1,9 @@
+1) Run npm install on server and client
+2) Create .env file in server folder
+3) Add the env variables
+   OPENAI_API_KEY=""
+   MONGODB_URL=""
+   CLOUDINARY_CLOUD_NAME=""
+   CLOUDINARY_API_KEY=""
+   CLOUDINARY_API_SECRET=""
+4) Run the server and client by npm run start and npm run dev/build
