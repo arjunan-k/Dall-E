@@ -9,6 +9,7 @@
 6. Run `npm install`
 7. Create `.env` file in server folder
 8. Add the env variables 
+
     ```env
     OPENAI_API_KEY=""
 
